@@ -8,7 +8,8 @@ This project demonstrates a complete end-to-end Azure Data Engineering workflow 
 
 ## Workflow Diagram
 
-&#x20;
+![Workflow Diagram](images/E2EAzureETL_WFD.png)
+
 
 ---
 
