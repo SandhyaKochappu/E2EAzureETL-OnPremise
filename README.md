@@ -95,11 +95,6 @@ This project showcases how to build an enterprise-grade ETL pipeline on Azure, s
 - Maintainable
 - Cost-effective
 
-With this architecture, data teams can modernize their data pipelines while leveraging the full power of Microsoft Azure.
+## Credits
 
----
-
-> I want a readme file format that I can use in my GITHUB repo for the information provided in previous chat. Project is already completed
->
->
-
+This project is inspired by and credits **[DataToCrunch](https://www.youtube.com/@DataToCrunch)** for the original content and guidance.
